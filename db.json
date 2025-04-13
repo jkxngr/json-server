@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "id": "6719",
+      "email": "botirovj781@gmail.com",
+      "password": "jahon0242",
+      "name": "Jahongir",
+      "surname": "Botirov",
+      "charts": [
+        {
+          "id": "1744520391078",
+          "type": "pie",
+          "w": 5,
+          "h": 4,
+          "x": 0,
+          "y": 4,
+          "i": "1744520391078",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744520608554",
+          "type": "bar",
+          "x": 6,
+          "y": 0,
+          "w": 6,
+          "h": 4,
+          "i": "1744520608554",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744520920052",
+          "type": "line",
+          "x": 4,
+          "y": 8,
+          "w": 6,
+          "h": 4,
+          "i": "1744520920052",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744520949202",
+          "type": "pie",
+          "x": 0,
+          "y": 12,
+          "w": 6,
+          "h": 4,
+          "i": "1744520949202",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744521139897",
+          "type": "pie",
+          "x": 0,
+          "y": 16,
+          "w": 6,
+          "h": 4,
+          "i": "1744521139897",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744521150881",
+          "type": "pie",
+          "x": 0,
+          "y": 20,
+          "w": 6,
+          "h": 4,
+          "i": "1744521150881",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744521153211",
+          "type": "line",
+          "x": 0,
+          "y": 0,
+          "w": 6,
+          "h": 4,
+          "i": "1744521153211",
+          "moved": false,
+          "static": false
+        }
+      ]
+    },
+    {
+      "id": "5ce8",
+      "name": "Jahongir",
+      "surname": "Botirov",
+      "email": "botirovj7831@gmail.com",
+      "password": "111",
+      "charts": [
+        {
+          "id": "1744522563378",
+          "type": "line",
+          "x": 1,
+          "y": 3,
+          "w": 3,
+          "h": 3,
+          "i": "1744522563378",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744522588157",
+          "type": "bar",
+          "x": 0,
+          "y": 0,
+          "w": 3,
+          "h": 3,
+          "i": "1744522588157",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744522589155",
+          "type": "line",
+          "x": 6,
+          "y": 0,
+          "w": 6,
+          "h": 4,
+          "i": "1744522589155",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744523710720",
+          "type": "pie",
+          "x": 3,
+          "y": 0,
+          "w": 3,
+          "h": 3,
+          "i": "1744523710720",
+          "moved": false,
+          "static": false
+        },
+        {
+          "id": "1744523712313",
+          "type": "pie",
+          "x": 4,
+          "y": 4,
+          "w": 6,
+          "h": 4,
+          "i": "1744523712313",
+          "moved": false,
+          "static": false
+        }
+      ]
+    }
+  ]
+}
